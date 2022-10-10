@@ -1,2 +1,3 @@
 feature 4
 First change to feature4
+second change to feature4
